@@ -20,9 +20,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 <!-- Do not edit this manually, your changes will be overwritten -->
 <!-- prettier-ignore -->
 
-[**Visit our status website →**](https://AzureHex.github.io/Uptime)
-
-
+[**Dashboard →**](https://AzureHex.github.io/Uptime)
 
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
