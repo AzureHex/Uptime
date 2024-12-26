@@ -1,4 +1,3 @@
-# Monitoring Services ....
 
 ## [📈 Live Status](https://azurehex.github.io/Uptime): <!--live status--> **🟧 Partial outage**
 
