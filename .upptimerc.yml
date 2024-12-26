@@ -16,7 +16,7 @@ status-website:
   favicon: https://raw.githubusercontent.com/AzureHex/Uptime/refs/heads/master/assets/logo.png
   logoUrl: https://raw.githubusercontent.com/AzureHex/Uptime/refs/heads/master/assets/logo.png
   name: Uptime
-  theme: macchiato # macchiato, light, dark, night or ocean
+  theme: dark # macchiato, light, dark, night or ocean
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: Monitoring Services . ....
   # navbar:
