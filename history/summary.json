@@ -10,13 +10,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 67,
-    "timeDay": 67,
-    "timeWeek": 67,
-    "timeMonth": 67,
-    "timeYear": 67,
+    "time": 66,
+    "timeDay": 66,
+    "timeWeek": 66,
+    "timeMonth": 66,
+    "timeYear": 66,
     "dailyMinutesDown": {
-      "2024-12-26": 26
+      "2024-12-26": 33
     }
   },
   {
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mustapp.com.ico",
     "slug": "must",
     "status": "up",
-    "uptime": "90.78%",
+    "uptime": "90.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.78%",
-    "uptimeMonth": "90.78%",
-    "uptimeYear": "90.78%",
-    "time": 934,
-    "timeDay": 591,
-    "timeWeek": 934,
-    "timeMonth": 934,
-    "timeYear": 934,
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "90.79%",
+    "uptimeYear": "90.79%",
+    "time": 913,
+    "timeDay": 590,
+    "timeWeek": 913,
+    "timeMonth": 913,
+    "timeYear": 913,
     "dailyMinutesDown": {
       "2024-12-21": 261,
       "2024-12-20": 582
