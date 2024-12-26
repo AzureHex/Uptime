@@ -1,7 +1,6 @@
 # Monitoring Services ....
 
-<!--
-# [📈 Live Status](https://AzureHex.github.io/Uptime): <!--live status--> **🟧 Partial outage**
+## [📈 Live Status](https://azurehex.github.io/Uptime): <!--live status--> **🟧 Partial outage**
 
 <!--
 This repository contains the open-source uptime monitor and status page for [Wolf](https://AzureHex.github.io/Uptime), powered by [Upptime](https://github.com/upptime/upptime).
